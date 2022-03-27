@@ -1,6 +1,5 @@
 # DataScienceProject2_CreditCardFraudDetection
 
-# Detecting Credit Card Fraud 
 This is a data science project with machine learning in R.
 
 ## Aim of Project
